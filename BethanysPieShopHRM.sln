@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BethanysPieShopHRM.App", "BethanysPieShopHRM.App\BethanysPieShopHRM.App.csproj", "{815E1819-1FE2-4675-8FBB-E5CA65A5140B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BethanysPieShopHRM.App", "BethanysPieShopHRM\BethanysPieShopHRM.App.csproj", "{815E1819-1FE2-4675-8FBB-E5CA65A5140B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BethanysPieShopHRM.Shared", "BethanysPieShopHRM.Shared\BethanysPieShopHRM.Shared.csproj", "{F598621D-6F1C-4BF4-9A3C-5286726CF8D5}"
 EndProject
